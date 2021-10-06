@@ -1,0 +1,17 @@
+.color{
+    background-color:#d8e2dc;
+    padding-left: 10px;
+}
+.disply{
+    display: none;
+}
+
+.line{
+    text-decoration: line-through;
+}
+.done{
+    background-color:#b7b7a4;
+    padding-left: 10px;
+}
+
+
